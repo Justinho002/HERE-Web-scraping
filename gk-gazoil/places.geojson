@@ -1,0 +1,2696 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.482353,
+          50.991858
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22128 (Горняк г., Восточная ул., 2)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.177688,
+          51.171643
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22129 (Змеиногорск г., Заречная ул., 14/1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.214245,
+          51.475477
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22133 (Рубцовск г., Ленина ул., 263)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.176706,
+          51.529254
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22135 (Рубцовск г., Чернышевского ул., 2)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.24872,
+          51.5591
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22132 (Рубцовск г., Алтайская ул., 201)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.66165,
+          51.815986
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22130 (Михайловка с., Горького ул., 15а)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.344619,
+          51.943305
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №180 (Алтайское с., Горького ул., 2а)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.846962,
+          51.990904
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №181 (Поспелиха с., Объездная ул., 19)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.340981,
+          52.021703
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22127 (Волчиха с., Крупская ул., 61)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.281865,
+          52.232808
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22137 (Шипуново с., Мамонтова ул., 152)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.164289,
+          52.263668
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22143 (Ключи с., Северная ул., 6/г)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.216952,
+          52.307819
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22122 (Красногорское с., Партизанская ул., 71)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.732344,
+          52.499331
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22126 (Алейск г., трасса г. Барнаул - г. Рубцовск)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.196088,
+          52.5212
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22148 (Родинский р-н, Родино с., трасса Барнаул)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.123418,
+          52.522577
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22116 (Бийск г., Иртышская ул., 21)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.26408,
+          52.523603
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22121 (Бийск г., Старый Чуйский т-т, 3)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.213083,
+          52.547803
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22801 Бийск, ул.Революции, 125/1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.203668,
+          52.550708
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22191 (Бийск, Чуйский тракт 357 км)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.961538,
+          52.571703
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22144 (Кулунда с., 2-я Восточная ул., 9)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.20991,
+          52.630617
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22149 (Романово с., Крупской ул., 57)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.633517,
+          52.736799
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22146 (Мамонтовский р-н, Малые Бутырки с., Маги)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.801829,
+          52.777851
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22150 (Табуны с., Целинная ул., 42)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.896605,
+          52.795026
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22139 (Благовещенка, с. Советская ул., 94/в)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.107136,
+          52.806447
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22136 (Топчиха, Коммунальная-1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.897972,
+          52.847478
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22141 (Завьялово с., Мичурина ул., 38, стр. 1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.674272,
+          52.978372
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №145 (Славгород г., Первая промышленная ул, 2а)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.315693,
+          53.084255
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22147 (Ребриха с., Ребрихинский т-т, 2)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.680772,
+          53.253623
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22177 (Барнаул г., Южный пос., Дзержинского ул)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.741825,
+          53.273472
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22108 (Барнаул г., Широкая просека, 4)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.759501,
+          53.318021
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22502 Барнаул г, Загородная ул, 119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.317112,
+          53.321485
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №140 (Бурла с. Интернациональная)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.707231,
+          53.328423
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22103 (Барнаул, ул.Власихинская, 57б) Магазин Газмаркет"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.752824,
+          53.336361
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22190 Барнаул, Челюскинцев,117."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.929475,
+          53.340022
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22114 (Павловск, ул Магистральная,11а)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.636841,
+          53.347057
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №176 (Барнаул г., Павловский т-т, 313)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.696709,
+          53.356235
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22107 (Барнаул г., Малахова ул., 88а)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.760491,
+          53.369397
+        ]
+      },
+      "properties": {
+        "name": "МАЗС №22104 (Барнаул г,Калинина пр-кт,19, корпус А)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.686981,
+          53.381337
+        ]
+      },
+      "properties": {
+        "name": "МАЗС №22109 (Барнаул г,Эмилии Алексеевой ул,122)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.657283,
+          53.388699
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22105 (Барнаул г., Космонавтов пр., 46)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.514327,
+          53.6044
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22151 (Хабары с., Шукшина ул.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.346647,
+          53.758933
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22142 (Камень-на-Оби г., Барнаульский т-т, 24)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.576054,
+          53.77349
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22111 (Наумово, трасса М52 тальменский р-н)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.19226,
+          53.974591
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22182 Крутиха"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "22104 МАЗС (Барнаул г,Калинина пр-кт,19, корпус А)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "22109 МАЗС (Барнаул г,Эмилии Алексеевой ул,122)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "№22794 Северозападная 20 Газмаркет"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "№22795 Бийск"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22110 (Заринск, ул.Зелёная, 65)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22113 (Новоалтайск г., Переездная ул., 33)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22501 (Барнаул г., ул. Змеиногорский тракт, 132)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22503 (Барнаул г., ул. Попова, 226в)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "Магазин Славгород"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №175 (Барнаул г., Мамонтова ул, 141)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №178 (Санниково с., Барнаульское ш., 1)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №178 (Санниково с., Барнаульское ш., 1)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №179 (Тальменский р-н, трасса Новосибирск-Таш)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №179 (Тальменский р-н, трасса Новосибирск-Таш)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22177 (Барнаул г., Южный пос., Дзержинского ул)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22184 Барнаул, ул. Шумакова, 19а."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22185 Косиха."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22190 Барнаул, Челюскинцев,117."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22803 Косиха."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.396402,
+          55.6482
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №175 (Барнаул г., Мамонтова ул, 141)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.678468,
+          83.678468
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22184 Барнаул, ул. Шумакова, 19а."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606124,
+          50.615668
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38008 с.Бичура, ул.Комсомольская,38А"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.537322,
+          51.27315
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38007 г.Гусиноозерск, ул.Кузнецова, 32/2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580424,
+          51.777643
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38004 г.Улан-Удэ, ул.Забайкальская,16А"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.511021,
+          51.833746
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38002 Дорожная, г.Улан-Удэ, ул.Дорожная, 52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.637056,
+          51.841642
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38001 г.Улан-Удэ, ул.Ботаническая, 30А"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.560488,
+          51.852017
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38003 г.Улан-Удэ, ул.Борсоева, 105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.605307,
+          52.003658
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38006 ст.Тимлюй, ул.Заводская, 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.869659,
+          54.356597
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38017 (г. Улан-Удэ, ул.Пищевая, дом №1А)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.869659,
+          54.356597
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38018 (пгт Онохой,ул.40 лет ЛПК)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.185302,
+          52.348572
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38101 Иркутск, Р.Люксембург, 162а"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.630252,
+          52.762749
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38102 Усолье, пересечение улиц Коростова и Комсомольского проспекта"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.117477,
+          53.132411
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38103 Черемхово, Маяковского, 165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.028314,
+          53.939625
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38104 Зима, Коммунистическая, 205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.184973,
+          54.107713
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38105 Саянск, микр.6А, в 76 м.юго-западнее пересечения Ленинградского пр-та и Харайгунского т"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.609989,
+          54.539534
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38106 Тулун, Гидролизная, 18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.006708,
+          54.919583
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38108 Н-Удинск, Кашика, 244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.614678,
+          56.165764
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38109 Братск, Курчатова, 13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.867617,
+          52.761706
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42025 (г.Таштагол, ул.М.Горького, 2Б)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.327648,
+          53.610048
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42163 (Осинники г, Магистральный проезд, 16/1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.069333,
+          53.680562
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42026 (г.Междуреченск, ул.Юности 17а)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.257703,
+          53.780353
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42014 (Новокузнецк Обнорского)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.953275,
+          53.792713
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №42166 г.Новокузнецк, Калачево   П с 25.05.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.198211,
+          53.845505
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42020 г.Новокузнецк, ул. Автотранспортная 43/6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.608885,
+          53.883135
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №42164 (Прокопьевск, 10микрорайон ул.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.103516,
+          53.886844
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42023 (г.Новокузнецк, ул.Косыгина 1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.687504,
+          54.017757
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42162 (Киселевскг., Привольнаяул., 5/а)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.374805,
+          54.367196
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42153 (Белово с., Придорожная, 42)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.319366,
+          54.457183
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42152 (Белово с.,  Аэродромная ул., 109/2)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.200661,
+          54.683995
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42016 (Ленинск кузнецкий Объездная дорога, проезд 8)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.247884,
+          54.710863
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42018 Ленинск-Кузнецкий ул.Лесной городок 47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.626083,
+          55.287788
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42021 г. Прокопьевск, ул. Союзная, 61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.626083,
+          55.287788
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42801 г. Юрга ул. Интернациональная, 73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.626083,
+          55.287788
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42802 г. Кемерово, Юго-Западнее, стр. №3, 245 км автодороги Байкал, Новосибирск-Иркутск"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.626083,
+          55.287788
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42803 г. Кемерово, Юго-Восточное пересечение, ул. Железнодорожная и Красноармейская"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.168538,
+          55.303063
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42155 (Кемерово г., Металлоплощадка п., Рубино)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.142641,
+          55.3345
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42160 (Кемерово г., Терешковой ул., 37/1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.048057,
+          55.348121
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42158 (Кемерово г., Совхозная ул., 127а/1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.028259,
+          55.365203
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42159 (Кемерово г., 1-я Стахановская ул., 26)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.028119,
+          55.400177
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42157 (Кемерово г., Рекордная ул., 38а)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.140188,
+          55.441697
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42027 (Кемерово г., Вахрушева ул., 40)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.258586,
+          55.646921
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42030 (Березовский г, Н.Барзас ул, дом № 1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.906916,
+          55.701456
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42029 (Юрга г., Кузбасский пр.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.017314,
+          56.098935
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42028 (Анжеро-Судженск г, Войкова ул, дом № 50)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.530418,
+          56.125726
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №42165 (Тяжинский пгт, Новогаражная, 1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.719816,
+          56.201455
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №42015 (Мариинск 50 лет Октября, 74б)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.035036,
+          53.723637
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №60 г.Карасук, в районе Таможенного поста №17 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.073972,
+          53.72859
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №30 г.Карасук, ул.Ландика, 56 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.073972,
+          53.72859
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №30 г.Карасук, ул.Ландика, 56 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.32397,
+          53.812348
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №19 р.п.Сузун, ул.Лесная, 16 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.238421,
+          53.997238
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №31 р.п. Краснозерское, ул.Октябрьская, 1м. НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.238421,
+          53.997238
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №31 р.п. Краснозерское, ул.Октябрьская, 1м. НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.690525,
+          54.103809
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №47 с.Баган, ул.Дорожников, 2 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.690525,
+          54.103809
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №47 с.Баган, ул.Дорожников, 2 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.372481,
+          54.219686
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №55 г.Черепаново, ул.Партизанская, 69г   НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.372481,
+          54.219686
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №55 г.Черепаново, ул.Партизанская, 69г   НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.318143,
+          54.222838
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №21 г.Черепаново, 104 км.а/д Чуйский тракт НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.461668,
+          54.336794
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №11 в 50м.а/дороги К-17р 204+0,26км.Новосибирск-Кочки НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.172589,
+          54.347375
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №20 р.п. Маслянино, ул.60 лет Октября, 12,б НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.869659,
+          54.356597
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №38 р.п. Ордынское, ул.Октябрьская, 96 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.280798,
+          54.377325
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №29 г.Купино, ул.Лермонтова, 79  НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.280798,
+          54.377325
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №29 г.Купино, ул.Лермонтова, 79  НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9633,
+          54.38781
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №32 р.п. Ордынское 1600м.от с.Чернаково по напр.на с/восток (трасса Новосибирск-Кочки-Павлодар) НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9633,
+          54.38781
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №32 р.п. Ордынское 1600м.от с.Чернаково по напр.на с/восток (трасса Новосибирск-Кочки-Павлодар) НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.344044,
+          54.492697
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №54040 Искитимский р-он, 1 км на юг от администрации Евсенского сельсовета НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.672629,
+          54.514742
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №13 c.Довольное, в 1,2 км. по направлению на север НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.267443,
+          54.622297
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №39 56 км. а/д Новосибирск-Ташанта  НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.267443,
+          54.622297
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №39 56 км. а/д Новосибирск-Ташанта  НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.654025,
+          54.690599
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №43 с.Здвинск, ул.Южная 12 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.654025,
+          54.690599
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №43 с.Здвинск, ул.Южная 12 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.587662,
+          54.723029
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №37 р.п.Чистоозерное, ул.Лесная, 17 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.587662,
+          54.723029
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №37 р.п.Чистоозерное, ул.Лесная, 17 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.045706,
+          54.737713
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №54086 г.Бердск, ул.Зелёная Роща, 5/32 К1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.160289,
+          54.737767
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №54083 Искитимский район, 43 км трассы НСК-Ташанта"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.149105,
+          54.749865
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №54087 Бердск г, Барнаульская ул, дом № 16, корпус А"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.138199,
+          54.752216
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №10 г.Бердск, 38-й км.трасса М 52 Новосибирск-Ташанта НСО."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.138199,
+          54.752216
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №10 г.Бердск, 38-й км.трасса М 52 Новосибирск-Ташанта НСО."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.112615,
+          54.856375
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №54080 г.Новосибирск, ул.Николаева 14а"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.094597,
+          54.935015
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №54081 г.Новосибирск, ул.Одоевского, 6а."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.88036,
+          54.942819
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №06 г.Новосибирск, ул.Петухова,8а."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.899199,
+          54.952247
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №41 г.Новосибирск, ул.Сибиряков-Гвардейцев, 54/1   НСО."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.899073,
+          54.952385
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №41 г.Новосибирск, ул.Сибиряков-Гвардейцев, 54/1   НСО."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.053412,
+          54.957381
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №03 г.Новосибирск, ул.Бердское шоссе,20   НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.928133,
+          54.96598
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №02 г.Новосибирск, ул.Ватутина,105 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.859748,
+          54.967202
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №54084 г.Новосибирск ул.Троллейная 83а"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.720372,
+          54.994227
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №05 г.Обь, ул.Ломоносова,104   НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.720372,
+          54.994227
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №05 г.Обь, ул.Ломоносова,104   НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.055043,
+          55.0039
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №01 г.Новосибирск, ул.Выборная, 201Г НСО."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.055043,
+          55.0039
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №01 г.Новосибирск, ул.Выборная, 201Г НСО."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.816153,
+          55.01149
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №54085 г. Новосибирск, ул. 2-я Станционная, 27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.445002,
+          55.026759
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №44 с.Прокудское НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.445002,
+          55.026759
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №44 с.Прокудское НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.222198,
+          55.030143
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №36 р.п. Коченево, ул.Юбилейная 3 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.222198,
+          55.030143
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №36 р.п. Коченево, ул.Юбилейная 3 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.997192,
+          55.033579
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №15 г.Новосибирск, ул.Есенина  НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.942241,
+          55.034141
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №14 г.Новосибирск, Ядринцевский Подъем ул, дом № 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.067097,
+          55.047857
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №58 г.Новосибирск, ул.Зеленодолинская 2а   НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.965184,
+          55.057558
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №61 г.Новосибирск, ул.Королева, 40, корпус 71 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.978587,
+          55.081457
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №04 г.Новосибирск, ул.Писемского, 24а   НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.89379,
+          55.087843
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №07 г.Новосибирск, Мочищенское шоссе 1, к1."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.952966,
+          55.091401
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №56 г.Новосибирск, ул.Учительская НСО."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.919672,
+          55.095191
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №35 г.Чулым, ул.Мельничная, 108 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.919672,
+          55.095191
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №35 г.Чулым, ул.Мельничная, 108 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.991282,
+          55.217689
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №51 г.Татарск, ул.Татарская, 5а   НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.029514,
+          55.218615
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №28 г.Татарск, ул.Путепроводная 7 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22 Тогучинский район, по ул.Ломоносова на выезде из города НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.312636,
+          55.226789
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №54034 пересеч. а/д Каргат-Байкал-Форпост, 40м.запад,Каргат-М51 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.817417,
+          55.267834
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №27 р.п.Чаны, 1022 км Трассы Байкал, 10 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.817417,
+          55.267834
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №27 р.п.Чаны, 1022 км Трассы Байкал, 10 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.572996,
+          55.287788
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №24 (Мошково рп,Вокзальная ул,1Т, корпус а)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.691336,
+          55.301473
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №66 с.Убинское, ул.Майская 45 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.734646,
+          55.319092
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №12 Птг. Колывань, ул.Шоссейная, 18 Б НСО."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.393414,
+          55.346676
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №25 г.Барабинск, ул.Промышленная, 12 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.393414,
+          55.346676
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №25 г.Барабинск, ул.Промышленная, 12 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.328438,
+          55.421834
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №50 г.Куйбышев, ул.Гуляева, в р-не АЗС &quot;ЮАР&quot; НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.328438,
+          55.421834
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №50 г.Куйбышев, ул.Гуляева, в р-не АЗС &quot;ЮАР&quot; НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.340625,
+          55.439998
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №26 г.Куйбышев, ул.Объездная, 6 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.340625,
+          55.439998
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №26 г.Куйбышев, ул.Объездная, 6 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.396402,
+          55.6482
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №17 г.Болотное, а/дорого М-53 Новосибирск-Иркутск НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.414536,
+          55.686478
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №16 г.Болотное, ул.Степная, 35а  НСО."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770411,
+          55.686799
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №52 с.Венгерово, ул.Ленина 196 НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.622589,
+          56.542106
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №57 с.Кыштовка, ул.Волкова, 56   НСО"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.998709,
+          56.431709
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №75 г. Томск, Богашевский тракт, дом 28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.913288,
+          56.461805
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №70073 г. Томск, Шегарский тракт 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.744039,
+          56.507951
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №70078 (Томск, с.Зоркальцево)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.096868,
+          56.510403
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №70064 Томск г, Ивановского ул, дом № 6/3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.951418,
+          56.516151
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №70077 (Томск г,Пролетарская ул,57, корпус А)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.994729,
+          56.52181
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №74 г. Томск, улица Смирнова, дом 1д"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.236946,
+          56.553999
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №70068 Воронино\t"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.011869,
+          56.573174
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №70065 Томск г, Кузовлевский тракт(кольцо)\t"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.902594,
+          57.350398
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №70070 Кривошеино с.,Энергетиков ул, 1Б"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.389284,
+          53.688004
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №19208 г. Абакан, ул. Аскизская, 242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.448052,
+          53.709102
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №19211 г. Абакан, ул. Железнодорожная 27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.32397,
+          53.812348
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №19212  г. Абакан, ул. Тувинская 2В"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.338549,
+          53.840274
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №19201 (Черногорск, Красноярский тракт,1Б)\t"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.697096,
+          53.684042
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №19207 г.Минусинск, ул.Чайковского 59 (ранее ул.Сотниченко 23)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.518751,
+          56.270536
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №24001 г. Ачинск, ул. Дзержинского 30 ж"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.679588,
+          49.980284
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22171 (Кош-Агач)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.167212,
+          50.738285
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22172 (Онгудай)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.673138,
+          51.318209
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22173 (Шебалино)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.978596,
+          51.920603
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22168 (Горно - Алтайск г., Ленина ул., 261)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.931829,
+          51.957105
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №22802 (г.Горно-Алтайск, ул.Красноармейская 58/1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.904397,
+          52.00044
+        ]
+      },
+      "properties": {
+        "name": "МАГЗС №170 (Алтай респ., Майминский р-н, дорога П-21)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358352,
+          55.219736
+        ]
+      },
+      "properties": {
+        "name": "АГЗС №22189 Турочаксий район, Верх Бийская"
+      }
+    }
+  ]
+}
